@@ -1,0 +1,38 @@
+.name {
+    color: #2104d9;
+    
+}
+
+.where{
+    color: #2308d1;
+}
+
+.three{
+    color: #9104c9;
+}
+
+.some{
+    color: #04c6c9;
+}
+
+.why{
+    color: #0c8f03;
+}
+
+p {
+    color: black;
+}
+
+img {
+    width:150px;
+}
+
+body {
+    background-color: #edd707;
+    font-family: Josefin Slab;
+}
+
+.first{
+    color:black;
+}
+.second {color: purple;}
